@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="help_button">Anleitung</string>
     <string name="title_activity_help">Anleitung</string>
-    <string name="help_content">Situation Puzzles ist ein Gruppenspiel, bei dem Versucht 
+    <string name="help_content">Situation Puzzles ist ein Gruppenspiel, bei dem versucht 
         wird ein Raetsel zu loesen. Es gibt einen Erzaehler, der die komplette Geschichte 
         kennt. Die Ratenden erhalten einen Teil der Geschichte und muessen ueber 
         ja/nein-Fragen auf die ganze Geschichte kommen. Der Erzaehler darf nur mit ja, nein,
